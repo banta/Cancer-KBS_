@@ -1,0 +1,14 @@
+Cancer Knowledge based system is used for diagnosis of various types of cancers and getting
+information on supported types of cancers. It currently supports 10 types of common
+cancers suspected to be among the major types.
+
+
+A jar file together with the libraries are provided in project.
+
+To run the jar file : 
+			$java -jar Cancer\ /KBS.jar
+
+Credits:
+	Bernard Banta - banta.bernard@gmail.com
+	Alexander Odhiambo
+	Stephen Ooko
